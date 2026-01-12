@@ -1,5 +1,5 @@
 ## SDSS Computing Studies Python Assignment
-### Assignment #020 Functions (Total Marks 12)
+### Assignment #A401 Function Definitions
 
 Objectives:
 * Explore Modular Code with Functions
